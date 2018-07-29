@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOrgResistorColorCoder.BL", "MyOrg.CircuitColorCoder.BL\MyOrgResistorColorCoder.BL.csproj", "{9B94359D-B7A3-4EE9-9190-5BDC51996DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOrg.ResistorColorCoder", "MyOrg.ResistorColorCoder\MyOrg.ResistorColorCoder.csproj", "{AB876B00-9187-48F5-8B43-D292F48208D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOrg.ResistorColorCoder.Test", "MyOrg.ResistorColorCoder.Test\MyOrg.ResistorColorCoder.Test.csproj", "{794AF62F-AFBA-465E-8F0D-10E073BBC56A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B94359D-B7A3-4EE9-9190-5BDC51996DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B94359D-B7A3-4EE9-9190-5BDC51996DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B94359D-B7A3-4EE9-9190-5BDC51996DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B94359D-B7A3-4EE9-9190-5BDC51996DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB876B00-9187-48F5-8B43-D292F48208D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB876B00-9187-48F5-8B43-D292F48208D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB876B00-9187-48F5-8B43-D292F48208D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB876B00-9187-48F5-8B43-D292F48208D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794AF62F-AFBA-465E-8F0D-10E073BBC56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794AF62F-AFBA-465E-8F0D-10E073BBC56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794AF62F-AFBA-465E-8F0D-10E073BBC56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794AF62F-AFBA-465E-8F0D-10E073BBC56A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B7FB6BF-8E96-4824-BB77-92B6DD14BD31}
+	EndGlobalSection
+EndGlobal

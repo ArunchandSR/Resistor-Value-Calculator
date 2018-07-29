@@ -1,0 +1,1 @@
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\i\MyOrg.ResistorColorCoder\Debug\MyOrg.ResistorColorCoder.csproj.CoreCompileInputs.cache

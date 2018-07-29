@@ -1,0 +1,49 @@
+﻿@model MyOrg.ResistorColorCoder.Models.ColorCode
+@{
+    ViewBag.Title = "ResistorColorCode";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<br />
+<div class="panel-body">
+    <form>
+        <div class="form-group row">
+
+            <label class="col-sm-2 col-form-label"> @Html.DisplayNameFor(model => model.bandA)</label>
+
+            @Html.EnumDropDownListFor(model => model.bandA, new { Class = "form-control" })
+
+        </div>
+        <div class="form-group row">
+
+            <label class="col-sm-2 col-form-label"> @Html.DisplayNameFor(model => model.bandB)</label>
+
+            @Html.EnumDropDownListFor(model => model.bandB, new { Class = "form-control" })
+
+        </div>
+        <div class="form-group row">
+
+            <label class="col-sm-2 col-form-label"> @Html.DisplayNameFor(model => model.bandC)</label>
+
+            @Html.EnumDropDownListFor(model => model.bandC, new { Class = "form-control" })
+
+        </div>
+        <div class="form-group row">
+
+            <label class="col-sm-2 col-form-label"> @Html.DisplayNameFor(model => model.bandD)</label>
+
+            @Html.EnumDropDownListFor(model => model.bandD, new { Class = "form-control" })
+
+        </div>
+        <br />
+        <br />
+        <div class="form-group row">
+            <input type="button" class="btn-info" value="Calculate Resistor Value" onclick="return CalculateResistorValue()" />
+            <div id="divResult" style="font-weight:bolder; width:80%"></div>
+        </div>
+    </form>
+    <script src="~/Scripts/App/ResistorValueCalculator.js"></script>
+</div>
+
+
+

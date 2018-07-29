@@ -1,0 +1,7 @@
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\b\MyOrg.ResistorColorCoder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\b\MyOrg.ResistorColorCoder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\b\MyOrg.ResistorColorCoder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\b\MyOrg.ResistorColorCoder.Test\bin\Debug\MyOrg.ResistorColorCoder.Test.dll
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\i\MyOrg.ResistorColorCoder.Test\Debug\MyOrg.ResistorColorCoder.Test.csproj.CoreCompileInputs.cache
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\i\MyOrg.ResistorColorCoder.Test\Debug\MyOrg.ResistorColorCoder.Test.csproj.CopyComplete
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\i\MyOrg.ResistorColorCoder.Test\Debug\MyOrg.ResistorColorCoder.Test.dll

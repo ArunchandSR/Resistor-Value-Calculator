@@ -1,0 +1,4 @@
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\b\MyOrg.CircuitColorCoder.BL\bin\Debug\MyOrg.CircuitColorCoder.BL.dll
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\i\MyOrgResistorColorCoder.BL\Debug\MyOrgResistorColorCoder.BL.csproj.CoreCompileInputs.cache
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\i\MyOrgResistorColorCoder.BL\Debug\MyOrgResistorColorCoder.BL.csproj.CopyComplete
+C:\Circuit color coder\MYorg.CircuitColorCoder\.vs\MYorg.ResistorColorCoder\lut\0\i\MyOrgResistorColorCoder.BL\Debug\MyOrg.CircuitColorCoder.BL.dll

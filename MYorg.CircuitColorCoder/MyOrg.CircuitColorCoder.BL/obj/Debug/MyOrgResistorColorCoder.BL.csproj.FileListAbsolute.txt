@@ -1,0 +1,6 @@
+C:\Circuit color coder\MYorg.CircuitColorCoder\MyOrg.CircuitColorCoder.BL\bin\Debug\MyOrg.CircuitColorCoder.BL.dll
+C:\Circuit color coder\MYorg.CircuitColorCoder\MyOrg.CircuitColorCoder.BL\bin\Debug\MyOrg.CircuitColorCoder.BL.pdb
+C:\Circuit color coder\MYorg.CircuitColorCoder\MyOrg.CircuitColorCoder.BL\obj\Debug\MyOrgResistorColorCoder.BL.csproj.CoreCompileInputs.cache
+C:\Circuit color coder\MYorg.CircuitColorCoder\MyOrg.CircuitColorCoder.BL\obj\Debug\MyOrg.CircuitColorCoder.BL.dll
+C:\Circuit color coder\MYorg.CircuitColorCoder\MyOrg.CircuitColorCoder.BL\obj\Debug\MyOrg.CircuitColorCoder.BL.pdb
+C:\Circuit color coder\MYorg.CircuitColorCoder\MyOrg.CircuitColorCoder.BL\obj\Debug\MyOrgResistorColorCoder.BL.csprojAssemblyReference.cache
